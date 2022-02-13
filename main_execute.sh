@@ -1,0 +1,1 @@
+/usr/bin/python3 main.py --environment_name 'CarRacing-v0' --model_path '/media/jo/0C84-5F29/MY_CONCERN_FIELD/Intelligent-Projects-Using-Python-master/Chapter09' --train_mode True --test_mode False --epsilon_greedy True --render True --width 96 --height 96 --num_stack 4 --huber_loss_thresh 1 --dropout 0.2 --memory_size 10000 --batch_size 128 --max_num_episodes 500
